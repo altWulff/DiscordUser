@@ -1,0 +1,5 @@
+pyfiglet
+rich
+requests
+selenium
+undetected_chromedriver
